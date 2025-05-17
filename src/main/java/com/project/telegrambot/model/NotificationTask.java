@@ -1,4 +1,4 @@
-package pro.sky.telegrambot.model;
+package com.project.telegrambot.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

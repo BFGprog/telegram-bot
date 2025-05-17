@@ -1,4 +1,4 @@
-package pro.sky.telegrambot.Service;
+package com.project.telegrambot.Service;
 
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.request.SendMessage;

@@ -1,11 +1,10 @@
-package pro.sky.telegrambot.response;
+package com.project.telegrambot.response;
 
-import org.springframework.data.auditing.CurrentDateTimeProvider;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
-import pro.sky.telegrambot.Service.MessageService;
-import pro.sky.telegrambot.model.NotificationTask;
-import pro.sky.telegrambot.repository.NotificationRepository;
+import com.project.telegrambot.Service.MessageService;
+import com.project.telegrambot.model.NotificationTask;
+import com.project.telegrambot.repository.NotificationRepository;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
