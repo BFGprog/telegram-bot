@@ -1,4 +1,4 @@
-package pro.sky.telegrambot.Service;
+package com.project.telegrambot.Service;
 
 public interface MessageService {
 
